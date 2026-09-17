@@ -7,6 +7,7 @@ export default function Home() {
       <div className="w-10/12 mx-auto my-5 text-center">
         <Header></Header>
         <Counter></Counter>
+        
       </div>
   );
 }
